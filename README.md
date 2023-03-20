@@ -100,7 +100,3 @@ GitHub Actions is used to create a CI/CD workflow specified in the `workflow.yml
 
 - [Linode](https://linode.com)
 - [Hashnode](https://hashnode.com)
-
-## Feedback
-
-If you have any feedback, please reach out to me at mtwn105@gmail.com
